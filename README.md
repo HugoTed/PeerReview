@@ -7,7 +7,7 @@
 
 ![图片3](https://github.com/HugoTed/PeerReview/blob/main/image/model/screenshot000.png "3")
 
-![SD](https://github.com/HugoTed/PeerReview/blob/main/image/model/QQ图片20210624230218.png "4")
+![SD](https://github.com/HugoTed/PeerReview/blob/main/image/model/QQ%E5%9B%BE%E7%89%8720210624230218.jpg "4")
 
 ## 2.游戏
 ### 2.1 VR
