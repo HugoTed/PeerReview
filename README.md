@@ -39,9 +39,11 @@
 ![MaxScript](https://github.com/HugoTed/PeerReview/blob/main/image/add/maxscript.png "15")
 
 ## 6.U3d扩展
+[代码地址](https://github.com/HugoTed/PeerReview/blob/main/Scirpt/u3d/MyDecorateTools.cs)
 ![U3d](https://github.com/HugoTed/PeerReview/blob/main/image/add/u3d.png "16")
 
 ## 7.Maya插件
+[代码地址](https://github.com/HugoTed/PeerReview/blob/main/Scirpt/Maya/texCheck2.py)
 ![Maya](https://github.com/HugoTed/PeerReview/blob/main/image/add/maya.png "16")
 
 
